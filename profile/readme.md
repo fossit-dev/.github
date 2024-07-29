@@ -4,20 +4,11 @@ Fossit uses [ext-watcher](https://github.com/ading2210/ext-watcher) and Github A
 
 ## Filter List
 - Securly
-  - Securly for Chromebooks
-  - Securly for Classroom
-  - SmartPAC
 - Go Guardian
 - CKAuthenticator
 - Fortinet
 - Lightspeed
-  - Lightspeed-ChromeFilter
-  - Lightspeed-Monitor
-  - Lightspeed-Classroom
 - iBoss
 - Cisco Umbrella
-- blocksi
-- netref
-- dyknow
 - bypatrol
-- Gopher Buddy
+- Linewize Connect
