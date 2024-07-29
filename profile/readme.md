@@ -9,6 +9,7 @@ Fossit uses [ext-watcher](https://github.com/ading2210/ext-watcher) and Github A
 - Cisco Umbrella
 - Linewize Connect
 - Blocksi
+
 As you can see a lot are missing :c\
 If you have a filter that is not listed here please:
 - Navigate to `chrome://extensions` or `chrome://extensions-internals` and find your filter
