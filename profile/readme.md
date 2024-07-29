@@ -11,3 +11,4 @@ Fossit uses [ext-watcher](https://github.com/ading2210/ext-watcher) and Github A
 - iBoss
 - Cisco Umbrella
 - Linewize Connect
+- Blocksi
