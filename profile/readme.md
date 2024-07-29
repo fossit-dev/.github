@@ -5,7 +5,6 @@ Fossit uses [ext-watcher](https://github.com/ading2210/ext-watcher) and Github A
 ## Filter List
 - Securly
 - Go Guardian
-- Lightspeed
 - Cisco Umbrella
 - Linewize Connect
 - Blocksi
