@@ -7,6 +7,19 @@ Fossit uses [ext-watcher](https://github.com/ading2210/ext-watcher) and Github A
 - Go Guardian
 - Linewize
 - Blocksi
+- iBoss
+
+## Filters Needed
+- Cisco Umbrella
+- ContentKeeper
+- FortiGuard
+- FortiNet
+- Harpa
+- LanScool
+- Lightspeed (Monitor, Classroom, Filter Agent)
+- NetRef
+- Palo Alto
+- Bypatrol
 
 As you can see a lot are missing :c\
 If you have a filter that is not listed here please:
@@ -15,14 +28,3 @@ If you have a filter that is not listed here please:
 - Then visit `chrome-extension://*extension id*/manifest.json`
 - Then DM the user `scaratech` (on Discord) the extension ID and `manifest.json`
 
-## Filters Needed
-- Cisco Umbrella
-- ContentKeeper
-- FortiGuard
-- FortiNet
-- Harpa
-- iBoss
-- LanScool
-- Lightspeed (Monitor, Classroom, Filter Agent)
-- NetRef
-- Palo Alto
