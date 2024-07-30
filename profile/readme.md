@@ -10,10 +10,9 @@ Fossit uses [ext-watcher](https://github.com/ading2210/ext-watcher) and Github A
 - iBoss
 - Cisco Umbrella
 - ContentKeeper
+- FortiNet
 
 ## Filters Needed
-- FortiGuard
-- FortiNet
 - Harpa
 - LanScool
 - Lightspeed (Monitor, Classroom, Filter Agent)
