@@ -14,3 +14,15 @@ If you have a filter that is not listed here please:
 - Note down the extensions ID
 - Then visit `chrome-extension://*extension id*/manifest.json`
 - Then DM the user `scaratech` (on Discord) the extension ID and `manifest.json`
+
+## Filters Needed
+- Cisco Umbrella
+- ContentKeeper
+- FortiGuard
+- FortiNet
+- Harpa
+- iBoss
+- LanScool
+- Lightspeed (Monitor, Classroom, Filter Agent)
+- NetRef
+- Palo Alto
