@@ -14,9 +14,9 @@ Fossit uses [ext-watcher](https://github.com/ading2210/ext-watcher) and Github A
 - Bypatrol
 
 ## Filters Needed
-- Harpa
+- Hapara
 - LanScool
-- Lightspeed (Monitor, Classroom, Filter Agent)
+- Lightspeed
 - NetRef
 - Palo Alto
 
