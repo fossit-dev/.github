@@ -1,0 +1,44 @@
+name: Daily Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Python 3
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: NodeJS
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Webpack
+        run: npm install -g webpack
+
+      - name: Clone ext-watcher
+        run: git clone https://github.com/fossit-dev/ext-watcher
+
+      - name: grah
+        run: cd ext-watcher
+
+      - name: Install Dep
+        run: pip install -r ext-watcher/requirements.txt
+
+      - name: Download Extensions
+        run: python ext-watcher/download.py
+
+      - name: Push Changes
+        run: python ext-watcher/main.py
