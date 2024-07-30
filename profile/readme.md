@@ -11,6 +11,7 @@ Fossit uses [ext-watcher](https://github.com/ading2210/ext-watcher) and Github A
 - Cisco Umbrella
 - ContentKeeper
 - FortiNet
+- Bypatrol
 
 ## Filters Needed
 - Harpa
@@ -18,9 +19,8 @@ Fossit uses [ext-watcher](https://github.com/ading2210/ext-watcher) and Github A
 - Lightspeed (Monitor, Classroom, Filter Agent)
 - NetRef
 - Palo Alto
-- Bypatrol
 
-As you can see a lot are missing :c\
+As you can see some are missing :c\
 If you have a filter that is not listed here please:
 - Navigate to `chrome://extensions` or `chrome://extensions-internals` and find your filter
 - Note down the extensions ID
