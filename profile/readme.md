@@ -8,9 +8,9 @@ Fossit uses [ext-watcher](https://github.com/ading2210/ext-watcher) and Github A
 - Linewize
 - Blocksi
 - iBoss
+- Cisco Umbrella
 
 ## Filters Needed
-- Cisco Umbrella
 - ContentKeeper
 - FortiGuard
 - FortiNet
